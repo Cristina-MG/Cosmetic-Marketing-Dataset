@@ -9,7 +9,7 @@ It includes information about customers, products, reviews, customer journeys, a
 
 ## 📂 Dataset Structure
 
-The dataset is provided as an Excel file with multiple sheets, one for each table:
+The dataset is provided as an Excel file (`cosmetic-marketing-dataset.xlsx`) with multiple sheets, one for each table:
 
 ### 🧍 Customers
 | Column          | Description                     |
@@ -72,6 +72,12 @@ The dataset is provided as an Excel file with multiple sheets, one for each tabl
 
 ---
 
+## 📥 Download
+
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=github)](https://github.com/Cristina-MG/Cosmetic-Marketing-Dataset/releases/latest/download/cosmetic-marketing-dataset.xlsx)
+
+---
+
 ## 📊 How to Use
 - This dataset can be used to practice **data modeling**, **data visualization**, **Power BI reports**, **marketing analytics** or **customer behavior analysis**.
 - It is especially suitable for creating dashboards that combine product sales, customer reviews, marketing engagement and journeys.
@@ -88,7 +94,4 @@ Feel free to use it for educational and non-commercial purposes.
 Created by **Cristina Martínez García**  
 🔗 [LinkedIn](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-data/)  
 🌐 [Portfolio](https://cristina-mg.github.io/)  
- 
-📊 [Example Dashboard on Power BI Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Dashboard-de-Engagement-y-Satisfacci%C3%B3n-del-Cliente/td-p/4820550) 
-
-
+📊 [Example Dashboard on Power BI Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Dashboard-de-Engagement-y-Satisfacci%C3%B3n-del-Cliente/td-p/4820550)
