@@ -1,5 +1,7 @@
 # 💄 Cosmetic Marketing Dataset
 
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=github)](https://github.com/Cristina-MG/Cosmetic-Marketing-Dataset/releases/download/v1.0/cosmetic-marketing-dataset.xlsx)
+
 A fictional dataset created for educational and portfolio purposes, designed to simulate real-world cosmetic marketing data.  
 It includes information about customers, products, reviews, customer journeys, and engagement metrics across multiple channels.
 
@@ -74,7 +76,7 @@ The dataset is provided as an Excel file (`cosmetic-marketing-dataset.xlsx`) wit
 
 ## 📥 Download
 
-[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=github)](https://github.com/Cristina-MG/Cosmetic-Marketing-Dataset/releases/latest/download/cosmetic-marketing-dataset.xlsx)
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=github)](https://github.com/Cristina-MG/Cosmetic-Marketing-Dataset/releases/download/v1.0/cosmetic-marketing-dataset.xlsx)
 
 ---
 
