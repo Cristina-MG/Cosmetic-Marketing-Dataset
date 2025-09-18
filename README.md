@@ -81,6 +81,37 @@ The dataset is provided as an Excel file (`cosmetic-marketing-dataset.xlsx`) wit
 
 ---
 
+## 📊 Example Power BI Report
+
+To showcase the potential of this dataset, here is an example dashboard built in **Power BI**:
+
+### 🏠 Home Page
+![Home Page](https://cristina-mg.github.io/assets/images/proyectos/Marketing-cosmetic/home.png)
+
+### 📈 General Panel
+![General Panel](https://cristina-mg.github.io/assets/images/proyectos/Marketing-cosmetic/P1.PNG)
+
+### 🔄 Customer Conversion
+![Customer Conversion](https://cristina-mg.github.io/assets/images/proyectos/Marketing-cosmetic/P2.PNG)
+
+### 📣 Social Media Details
+![Social Media Details](https://cristina-mg.github.io/assets/images/proyectos/Marketing-cosmetic/P3.PNG)
+
+### ⭐ Customer Reviews
+![Customer Reviews](https://cristina-mg.github.io/assets/images/proyectos/Marketing-cosmetic/P4.PNG)
+
+---
+
+### 📱 Mobile Version (GIF)
+![Mobile Dashboard](https://cristina-mg.github.io/assets/images/proyectos/Marketing-cosmetic/App-Essenza.gif)
+*Optimized mobile layout for quick access to key metrics.*
+
+---
+
+🔗 [Example Dashboard on Power BI Gallery](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Dashboard-de-Engagement-y-Satisfacci%C3%B3n-del-Cliente/td-p/4820550)
+
+---
+
 ## 📊 How to Use
 - This dataset can be used to practice **data modeling**, **data visualization**, **Power BI reports**, **marketing analytics** or **customer behavior analysis**.
 - It is especially suitable for creating dashboards that combine product sales, customer reviews, marketing engagement and journeys.
