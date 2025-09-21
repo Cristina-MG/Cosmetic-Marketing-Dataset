@@ -8,6 +8,9 @@ It includes information about customers, products, reviews, customer journeys, a
 
 📌 **Note**: All data is entirely fictional and was generated solely for learning and demonstration purposes. It does not represent real individuals or companies.
 
+⚠️ Disclaimer: This is a simplified sample of the dataset I originally used for my Power BI project.
+It contains enough structure and variety (customers, products, reviews, journeys, and engagement) to practice data modeling, DAX, and dashboard creation.
+
 ---
 
 ## 📂 Dataset Structure
